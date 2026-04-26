@@ -1,0 +1,6 @@
+Django
+djangorestframework
+drf-spectacular
+google-generativeai
+python-dotenv
+django-cors-headers
